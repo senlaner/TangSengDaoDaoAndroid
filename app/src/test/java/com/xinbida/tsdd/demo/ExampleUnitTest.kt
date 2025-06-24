@@ -1,4 +1,4 @@
-package com.test.demo
+package com.lefu.im
 
 import org.junit.Test
 

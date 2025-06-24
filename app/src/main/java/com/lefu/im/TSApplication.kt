@@ -1,4 +1,4 @@
-package com.test.demo
+package com.lefu.im
 
 import android.app.Activity
 import android.app.ActivityManager
@@ -116,7 +116,7 @@ class TSApplication : MultiDexApplication() {
     }
 
     private fun getAppPackageName(): String {
-        return "com.test.demo"
+        return "com.lefu.im"
     }
 
     private fun getProcessName(cxt: Context, pid: Int): String? {

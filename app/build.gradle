@@ -20,14 +20,14 @@ android {
             keyPassword 'demo1365'
         }
     }
-    namespace 'com.test.demo'
+    namespace 'com.lefu.im'
     compileSdk rootProject.ext.compileSdkVersion
     aaptOptions.cruncherEnabled = false
     aaptOptions.useNewCruncher = false
 
 
     defaultConfig {
-        applicationId "com.test.demo"
+        applicationId "com.lefu.im"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
